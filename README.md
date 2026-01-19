@@ -23,8 +23,8 @@
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Computer_Science-0078D4?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Computer Science"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Computer_Science-0078D4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Computer Science"/>
 </p>
 
 ---
